@@ -1,0 +1,11 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ToniMacaroni/RedLoader/main/MetadataSchema.json",
+  "id": "RifleSuppressor",
+  "name": "RifleSuppressor",
+  "author": "JustinOros",
+  "version": "1.0.0",
+  "description": "Puts the pistol suppressor on the rifle for quiet, suppressed shots",
+  "gameVersion": "1.0.0",
+  "platform": "Client",
+  "type": "Mod"
+}
