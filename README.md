@@ -1,5 +1,7 @@
 # Rifle Suppressor
 
+[![Downloads](https://img.shields.io/github/downloads/JustinOros/sotf-riflesuppressor/total?label=downloads)](https://github.com/JustinOros/sotf-riflesuppressor/releases) [![Latest](https://img.shields.io/github/v/release/JustinOros/sotf-riflesuppressor?label=latest)](https://github.com/JustinOros/sotf-riflesuppressor/releases/latest)
+
 Puts the pistol suppressor on the rifle in Sons of the Forest. Rifle shots use
 the suppressed pistol shot sound. You do not need a suppressor in your inventory.
 
